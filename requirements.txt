@@ -1,0 +1,15 @@
+# Core app dependencies
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-multipart>=0.0.20
+pandas>=2.0.0
+polars>=0.20.0
+duckdb>=0.9.0
+plotly>=5.18.0
+fastexcel>=0.9.0
+openpyxl>=3.1.0
+pyarrow>=14.0.0
+
+# Optional GUI dependencies
+PySide6>=6.5.0
+PySide6-WebEngine>=6.5.0
